@@ -37,5 +37,5 @@
   
   ##
   
-  ![Snake animation](https://github.com/Lucas2363/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Lucas2363/Lucas2363/blob/output/github-contribution-grid-snake.svg)
 
