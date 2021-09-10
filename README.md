@@ -13,7 +13,7 @@
  <div>
   <a href="https://github.com/Lucas2363">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucas2363&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2363&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas2363&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-Apache" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-line-wordmark.svg">
